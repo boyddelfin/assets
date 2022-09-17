@@ -1,4 +1,4 @@
 $(function(){
-    const settings = $.getJSON("https://raw.githubusercontent.com/boyddelfin/assets/master/json/settings.json");
+    const settings = $.getJSON("https://boyddelfin.github.io/assets/json/settings.json");
     console.log(settings.domain);
 });
